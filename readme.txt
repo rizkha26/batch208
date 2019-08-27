@@ -1,9 +1,4 @@
 hallo
 <<<<<<< .mine
-Console.Write("Hello World");
+Console.Write("Miaw");
 
-lorem ipsum dolor sit amet||||||| .r12
-Console.Write("Hello World");=======
-Console.Write("Hello World");
-
-ini error>>>>>>> .r13
